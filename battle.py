@@ -543,4 +543,4 @@ def battle(enemy: str, enemyhealth: int):
           exit()
      return
 
-battle("wild board", 50)
+battle("wild boar", 50)
