@@ -1,4 +1,5 @@
 # 4 Player RPG Battle Documentation
+**This code is outdated, and does not work**
 
 ## Playing the game:
 >When the game waits for your input, your available options are the words within the brackets. If there are no words in brackets, then just press enter
