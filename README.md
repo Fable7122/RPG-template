@@ -24,6 +24,8 @@ TO-DO:
      
 - [ ] - Rework visuals:
 
+    - [ ] - Plan out new UI in text file
+
     - [ ] - Move visuals to center of terminal, not bottom left
      
     - [ ] - Make character and enemy sprites
