@@ -1,0 +1,39 @@
+{
+    "Enemy health": [
+        32,
+        40
+    ],
+    "Player health": [
+        20,
+        20
+    ],
+    "Health potions": [
+        5,
+        6
+    ],
+    "MP potions": [
+        6,
+        6
+    ],
+    "MP": [
+        14,
+        15
+    ],
+    "Loadout": [
+        1,
+        1,
+        1
+    ],
+    "Triggers": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "XP": [
+        0,
+        20,
+        1
+    ]
+}
