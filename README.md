@@ -6,22 +6,8 @@ This is completely open source, so go crazy! Just make sure to credit me (Fable7
 
 TO-DO:
 
-- [ ] - Add on the fly changing of enemy stats at the start of combat based on the player's stats
-
 - [ ] - Add support for 4 person party
 
-- [ ] - Completely revamp how enemy moves work:
-
-    - [ ] - Make new moves unique to enemies
-     
-    - [ ] - Update enemy data file to store what moves they can use
-     
-    - [ ] - Swap out enemy code to use new moves
-     
-    - [ ] - Rework some existing moves to work with enemies
-     
-    - [ ] - Use non-random logic to determine which move to use when
-     
 - [ ] - Rework visuals:
 
     - [ ] - Plan out new UI in text file
@@ -37,5 +23,19 @@ TO-DO:
     - [ ] - Rework battle end
      
     - [ ] - Rework dialogue mid-fight
+
+- [ ] - Completely revamp how enemy moves work:
+
+    - [ ] - Make new moves unique to enemies
+     
+    - [ ] - Update enemy data file to store what moves they can use
+     
+    - [ ] - Swap out enemy code to use new moves
+     
+    - [ ] - Rework some existing moves to work with enemies
+     
+    - [ ] - Use non-random logic to determine which move to use when
+
+- [ ] - Add on the fly changing of enemy stats at the start of combat based on the player's stats     
 
 - [ ] - Rework leveling (add additional benefits)
